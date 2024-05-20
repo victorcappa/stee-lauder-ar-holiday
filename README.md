@@ -40,9 +40,16 @@ Augmented reality web based experience that mixes world and face anchored AR.
 The biggest challenge here was performance (20+ models at the same time) and smooth transition from the world scene to the face camera scene. Compressing and smart rendering strategies (only rendering models that are in sight) helped a lot to make this experience shiny to the eyes without hurting performance or causing reloading issues (very common in this context)
    </p>
 
+  
+ ![RPReplay_Final1689857619](https://github.com/victorcappa/stee-lauder-ar-holiday/assets/40408965/a5bdfbc2-bbaf-4881-9510-325eccf5e260)
 
-  <img src="https://user-images.githubusercontent.com/40408965/199372003-cb41446a-09d4-49cb-ba8e-3823af6e417b.gif" alt="animated" />
  
+
+https://github.com/victorcappa/stee-lauder-ar-holiday/assets/40408965/0b860a5f-3683-413e-b941-2b23dd173cbb
+
+
+
+https://github.com/victorcappa/stee-lauder-ar-holiday/assets/40408965/1079b0cc-6c09-4103-aaa6-ea475a93197a
 
 
 </p>
