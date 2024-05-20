@@ -1,13 +1,12 @@
 # stee-lauder-ar-holiday
-# Sprite Wakanda
 
 <div id="top"></div>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h2>Client</h2>
-<p>Contract: Subvrsive</p>
-<p><b>for Coca Cola Company and Marvel Studios</b></p>
+<p>Contract: Sharpend</p>
+<p><b>for Stee Lauder</b></p>
 
 
 <!-- PROJECT LOGO -->
@@ -15,14 +14,14 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/victorcappa/sprite-wakanda-capaign">
+  <a href="https://github.com/victorcappa/stee-lauder-ar-holiday">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Sprite Wakanda</h3>
+<h3 align="center">Stee Lauder AR Holiday Campaign</h3>
 
   <p align="center">
-Augmented reality web based experience for a Sprite and Marvel campaign, promoting the second Black Panther movie
+Augmented reality web based experience that mixes world and face anchored AR.
   </p>
  
 </div>
@@ -34,11 +33,11 @@ Augmented reality web based experience for a Sprite and Marvel campaign, promoti
 
  
 <p align="left">
- <p> Initially, the project required the use of the augmented reality engine 8th Wall, but in the end we used a-frame and three.js on top of html, css and plain javascript.</p>
+ <p> This webAR experience was built with 8th Wall and A-FRAME. At first, the user can is surrounded by 6 domes that, using different texture layers, create a stary background. More than 20 model instancies, from 6 different glbs, are randomly positioned around the user. Two falling stars are interactable and catching any of those can trigger the Face Anchored AR part of the experience, where 3 model entities are anchored on the user's head as a screenshot CTA is displayed.</p>
  
   <h3>Challenges</h3
    <p>
-Alpha video texturing, performance and mobile devices privacy permissions were the great challenges of this project, making it possible to learn about best practices for augmented reality on the web, as well as creating space to test and discover new solutions. 
+The biggest challenge here was performance (20+ models at the same time) and smooth transition from the world scene to the face camera scene. Compressing and smart rendering strategies (only rendering models that are in sight) helped a lot to make this experience shiny to the eyes without hurting performance or causing reloading issues (very common in this context)
    </p>
 
 
@@ -55,7 +54,7 @@ Alpha video texturing, performance and mobile devices privacy permissions were t
 <!-- LICENSE -->
 ## License
 
-All intellectual property is owned by Marvel Studios and Coca Cola Company
+All intellectual property is owned by Estee Lauder
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
