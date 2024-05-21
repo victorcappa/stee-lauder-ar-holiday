@@ -33,7 +33,7 @@ Augmented reality web based experience that mixes world and face anchored AR.
 
  
 <p align="left">
- <p> This webAR experience was built with 8th Wall and A-FRAME. At first, the user can is surrounded by 6 domes that, using different texture layers, create a stary background. More than 20 model instancies, from 6 different glbs, are randomly positioned around the user. Two falling stars are interactable and catching any of those can trigger the Face Anchored AR part of the experience, where 3 model entities are anchored on the user's head as a screenshot CTA is displayed.</p>
+ <p> This webAR experience was built with 8th Wall, A-FRAME and REACT. At first, the user can is surrounded by 6 domes that, using different texture layers, create a stary background. More than 20 model instancies, from 6 different glbs, are randomly positioned around the user. Two falling stars are interactable and catching any of those can trigger the Face Anchored AR part of the experience, where 3 model entities are anchored on the user's head as a screenshot CTA is displayed.</p>
  
   <h3>Challenges</h3
    <p>
