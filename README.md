@@ -37,7 +37,7 @@ Augmented reality web based experience that mixes world and face anchored AR.
  
   <h3>Challenges</h3
    <p>
-The biggest challenge here was performance (20+ models at the same time) and smooth transition from the world scene to the face camera scene. Compressing and smart rendering strategies (only rendering models that are in sight) helped a lot to make this experience shiny to the eyes without hurting performance or causing reloading issues (very common in this context)
+The biggest challenge here was performance (20+ models at the same time) and smooth transition from the world scene to the face camera scene. Compressing and smart rendering strategies (only rendering models that are in sight) helped a lot to make this experience shiny to the eyes without hurting performance or causing reloading issues (very common in this context). Another insteresting challenge was to create a analytics system to fit the client need for tracking all parts of the experience.
    </p>
 
   
