@@ -1,4 +1,4 @@
-# stee-lauder-ar-holiday
+# estée-lauder-ar-holiday
 
 <div id="top"></div>
 
@@ -6,7 +6,7 @@
 
 <h2>Client</h2>
 <p>Contract: Sharpend</p>
-<p><b>for Stee Lauder</b></p>
+<p><b>for Estée Lauder</b></p>
 
 
 <!-- PROJECT LOGO -->
@@ -18,7 +18,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Stee Lauder AR Holiday Campaign</h3>
+<h3 align="center">Estée Lauder AR Holiday Campaign</h3>
 
   <p align="center">
 Augmented reality web based experience that mixes world and face anchored AR.
